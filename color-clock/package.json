@@ -1,0 +1,15 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "a clock on the screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "Marcos",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.27.0",
+    "react": "^16.13.1"
+  }
+}
